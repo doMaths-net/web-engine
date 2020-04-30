@@ -23,7 +23,7 @@
         "psr-0": {
             "doMaths": "src/"
         }
-    }
+    },
     "prefer-stable": true,
     "license": "MIT",
     "bin": ["bin/domaths"]
