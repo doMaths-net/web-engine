@@ -1,14 +1,6 @@
 {
-    "name": "domaths/web-engine",
+    "name": "domathsnet/engine",
     "description": "My first Composer project",
-    "require": {
-        "php": "^7.2",
-        "composer/ca-bundle": "^1.1"
-    },
-    
-    
-    
-    
     "authors": [
         {
             "name": "Gary Grue",
@@ -23,9 +15,5 @@
         "psr-0": {
             "doMaths": "src/"
         }
-    },
-    "prefer-stable": true,
-    "license": "MIT",
-    "bin": ["bin/domaths"]
-
+    }
 }
